@@ -1,2 +1,2 @@
 # yushu
-A test repository for trying out devops for yushu
+Interested in figuring out the Chef devops. 
